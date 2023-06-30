@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Cambria';
+    color:rgb(233, 71, 22)       
+}
+body{
+	font-size: 20px;
+	font-family: 'Segoe UI';
+	color: #333;
+    margin-left: 25px;
+}
+.question{
+	font-weight: 600;
+}
+.answers {
+    margin-bottom: 20px;
+}
+.answers label{
+    display: block;
+  }
+#submit{
+	font-family: Verdana;
+	font-size: 20px;
+	background-color: rgb(99, 230, 240);
+	color: hsl(0, 2%, 11%);
+	border: 0px;
+	border-radius: 20px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+#submit:hover{
+	background-color: rgb(105, 232, 236);
+}
