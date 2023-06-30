@@ -14,7 +14,7 @@ const quizQuestions = [
     correctAnswer: "d"
     },
     {
-    question: "2. aavanya works in the research area of:",
+    question: "2. Laavanya works in the research area of:",
     answers: {
       a: "Animal Science",
       b: "Nutrition and Exercise",
